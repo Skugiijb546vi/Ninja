@@ -1,0 +1,63 @@
+2026-06-08 16:34:13,784 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-06-08 16:34:15,598 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-06-08 16:35:10,384 - __main__ - INFO - Connected as: User(id=8762513456, is_self=True, contact=False, mutual_contact=False, deleted=False, bot=True, bot_chat_history=False, bot_nochats=False, verified=False, restricted=False, min=False, bot_inline_geo=False, support=False, scam=False, apply_min_photo=True, fake=False, bot_attach_menu=False, premium=False, attach_menu_enabled=False, bot_can_edit=True, close_friend=False, stories_hidden=False, stories_unavailable=True, contact_require_premium=False, bot_business=False, bot_has_main_app=False, bot_forum_view=False, bot_forum_can_manage_topics=False, bot_can_manage_bots=False, access_hash=999817861713148571, first_name='SEBAR Tv', last_name=None, username='MusicFlash4TmBot_bot', phone=None, photo=None, status=None, bot_info_version=1, restriction_reason=[], bot_inline_placeholder=None, lang_code=None, emoji_status=None, usernames=[], stories_max_id=None, color=None, profile_color=None, bot_active_users=None, bot_verification_icon=None, send_paid_messages_stars=None)
+2026-06-08 16:35:10,549 - __main__ - ERROR - Failed on https://t.me/iraqleaks: Nobody is using this username or the username is unacceptable (caused by ResolveUsernameRequest)
+2026-06-08 16:35:10,674 - __main__ - INFO - Scanning: https://t.me/iqdatabase
+2026-06-08 16:35:10,815 - __main__ - ERROR - Failed on https://t.me/iqdatabase: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by GetHistoryRequest)
+2026-06-08 16:35:10,950 - __main__ - ERROR - Failed on https://t.me/iraq_cyber_zone: No user has "iraq_cyber_zone" as username
+2026-06-08 16:35:11,088 - __main__ - ERROR - Failed on https://t.me/telegram_iraq_leaks: No user has "telegram_iraq_leaks" as username
+2026-06-08 16:35:11,230 - __main__ - ERROR - Failed on https://t.me/bot_hoax_warning: No user has "bot_hoax_warning" as username
+2026-06-08 16:35:11,230 - __main__ - INFO - Searching for: تسريب بيانات العراق
+2026-06-08 16:35:11,391 - __main__ - ERROR - Search failed for تسريب بيانات العراق: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
+2026-06-08 16:35:11,391 - __main__ - INFO - Searching for: قاعدة بيانات عراقية
+2026-06-08 16:35:11,537 - __main__ - ERROR - Search failed for قاعدة بيانات عراقية: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
+2026-06-08 16:35:11,537 - __main__ - INFO - Searching for: Iraq database leak
+2026-06-08 16:35:11,687 - __main__ - ERROR - Search failed for Iraq database leak: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
+2026-06-08 16:35:11,687 - __main__ - INFO - Searching for: IQ data dump
+2026-06-08 16:35:11,870 - __main__ - ERROR - Search failed for IQ data dump: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
+2026-06-08 16:35:11,870 - __main__ - INFO - Searching for: بطاقة وطنية
+2026-06-08 16:35:12,019 - __main__ - ERROR - Search failed for بطاقة وطنية: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
+2026-06-08 16:35:12,020 - __main__ - INFO - Searching for: Korek leak
+2026-06-08 16:35:12,161 - __main__ - ERROR - Search failed for Korek leak: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
+2026-06-08 16:36:22,365 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-06-08 16:36:22,468 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-06-08 16:36:23,618 - __main__ - INFO - Connected as: User(id=8762513456, is_self=True, contact=False, mutual_contact=False, deleted=False, bot=True, bot_chat_history=False, bot_nochats=False, verified=False, restricted=False, min=False, bot_inline_geo=False, support=False, scam=False, apply_min_photo=True, fake=False, bot_attach_menu=False, premium=False, attach_menu_enabled=False, bot_can_edit=True, close_friend=False, stories_hidden=False, stories_unavailable=True, contact_require_premium=False, bot_business=False, bot_has_main_app=False, bot_forum_view=False, bot_forum_can_manage_topics=False, bot_can_manage_bots=False, access_hash=999817861713148571, first_name='SEBAR Tv', last_name=None, username='MusicFlash4TmBot_bot', phone=None, photo=None, status=None, bot_info_version=1, restriction_reason=[], bot_inline_placeholder=None, lang_code=None, emoji_status=None, usernames=[], stories_max_id=None, color=None, profile_color=None, bot_active_users=None, bot_verification_icon=None, send_paid_messages_stars=None)
+2026-06-08 16:36:23,809 - __main__ - ERROR - Failed on https://t.me/iraqleaks: Nobody is using this username or the username is unacceptable (caused by ResolveUsernameRequest)
+2026-06-08 16:36:24,006 - __main__ - INFO - Scanning: https://t.me/iqdatabase
+2026-06-08 16:36:24,121 - __main__ - ERROR - Failed on https://t.me/iqdatabase: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by GetHistoryRequest)
+2026-06-08 16:36:24,288 - __main__ - ERROR - Failed on https://t.me/iraq_cyber_zone: No user has "iraq_cyber_zone" as username
+2026-06-08 16:36:24,462 - __main__ - ERROR - Failed on https://t.me/telegram_iraq_leaks: No user has "telegram_iraq_leaks" as username
+2026-06-08 16:36:24,623 - __main__ - ERROR - Failed on https://t.me/bot_hoax_warning: No user has "bot_hoax_warning" as username
+2026-06-08 16:36:24,624 - __main__ - INFO - Searching for: تسريب بيانات العراق
+2026-06-08 16:36:24,750 - __main__ - ERROR - Search failed for تسريب بيانات العراق: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
+2026-06-08 16:36:24,751 - __main__ - INFO - Searching for: قاعدة بيانات عراقية
+2026-06-08 16:36:24,886 - __main__ - ERROR - Search failed for قاعدة بيانات عراقية: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
+2026-06-08 16:36:24,886 - __main__ - INFO - Searching for: Iraq database leak
+2026-06-08 16:36:25,000 - __main__ - ERROR - Search failed for Iraq database leak: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
+2026-06-08 16:36:25,001 - __main__ - INFO - Searching for: IQ data dump
+2026-06-08 16:36:25,189 - __main__ - ERROR - Search failed for IQ data dump: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
+2026-06-08 16:36:25,189 - __main__ - INFO - Searching for: بطاقة وطنية
+2026-06-08 16:36:25,360 - __main__ - ERROR - Search failed for بطاقة وطنية: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
+2026-06-08 16:36:25,361 - __main__ - INFO - Searching for: Korek leak
+2026-06-08 16:36:25,525 - __main__ - ERROR - Search failed for Korek leak: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
+2026-06-08 19:16:53,495 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2026-06-08 19:16:53,633 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2026-06-08 19:16:54,785 - __main__ - INFO - Connected as: User(id=8762513456, is_self=True, contact=False, mutual_contact=False, deleted=False, bot=True, bot_chat_history=False, bot_nochats=False, verified=False, restricted=False, min=False, bot_inline_geo=False, support=False, scam=False, apply_min_photo=True, fake=False, bot_attach_menu=False, premium=False, attach_menu_enabled=False, bot_can_edit=True, close_friend=False, stories_hidden=False, stories_unavailable=True, contact_require_premium=False, bot_business=False, bot_has_main_app=False, bot_forum_view=False, bot_forum_can_manage_topics=False, bot_can_manage_bots=False, access_hash=999817861713148571, first_name='SEBAR Tv', last_name=None, username='MusicFlash4TmBot_bot', phone=None, photo=None, status=None, bot_info_version=1, restriction_reason=[], bot_inline_placeholder=None, lang_code=None, emoji_status=None, usernames=[], stories_max_id=None, color=None, profile_color=None, bot_active_users=None, bot_verification_icon=None, send_paid_messages_stars=None)
+2026-06-08 19:16:54,942 - __main__ - ERROR - Failed on https://t.me/iraqleaks: Nobody is using this username or the username is unacceptable (caused by ResolveUsernameRequest)
+2026-06-08 19:16:55,099 - __main__ - INFO - Scanning: https://t.me/iqdatabase
+2026-06-08 19:16:55,298 - __main__ - ERROR - Failed on https://t.me/iqdatabase: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by GetHistoryRequest)
+2026-06-08 19:16:55,454 - __main__ - ERROR - Failed on https://t.me/iraq_cyber_zone: No user has "iraq_cyber_zone" as username
+2026-06-08 19:16:55,618 - __main__ - ERROR - Failed on https://t.me/telegram_iraq_leaks: No user has "telegram_iraq_leaks" as username
+2026-06-08 19:16:55,769 - __main__ - ERROR - Failed on https://t.me/bot_hoax_warning: No user has "bot_hoax_warning" as username
+2026-06-08 19:16:55,770 - __main__ - INFO - Searching for: تسريب بيانات العراق
+2026-06-08 19:16:55,946 - __main__ - ERROR - Search failed for تسريب بيانات العراق: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
+2026-06-08 19:16:55,947 - __main__ - INFO - Searching for: قاعدة بيانات عراقية
+2026-06-08 19:16:56,174 - __main__ - ERROR - Search failed for قاعدة بيانات عراقية: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
+2026-06-08 19:16:56,175 - __main__ - INFO - Searching for: Iraq database leak
+2026-06-08 19:16:56,346 - __main__ - ERROR - Search failed for Iraq database leak: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
+2026-06-08 19:16:56,347 - __main__ - INFO - Searching for: IQ data dump
+2026-06-08 19:16:56,522 - __main__ - ERROR - Search failed for IQ data dump: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
+2026-06-08 19:16:56,524 - __main__ - INFO - Searching for: بطاقة وطنية
+2026-06-08 19:16:56,789 - __main__ - ERROR - Search failed for بطاقة وطنية: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
+2026-06-08 19:16:56,790 - __main__ - INFO - Searching for: Korek leak
+2026-06-08 19:16:56,989 - __main__ - ERROR - Search failed for Korek leak: The API access for bot users is restricted. The method you tried to invoke cannot be executed as a bot (caused by SearchGlobalRequest)
